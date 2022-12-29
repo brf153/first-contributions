@@ -9,6 +9,7 @@
 - [Yash Adake](https://github.com/YashAdake)
 - [Manisha Nair](https://github.com/manisha-nair28)
 - [Fahri Gunadi](https://github.com/FahriGunadi)
+- [Devaansh Bhandari](https://github.com/brf153)
 - [Nishant Wankhade](https://github.com/NishantWankhade)
 - [CyberVarun](https://github.com/CyberVarun)
 - [Dafa Armanto](https://github.com/dafaarmanto)
