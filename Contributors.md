@@ -5,6 +5,7 @@
 - [Fsubject](https://github.com/Fsubject)
 - [Nisarg Shah](https://github.com/nisarg0606)
 - [UDBHAV SOMANI](https://github.com/udbhavsomani)
+- [Devaansh Bhandari](https://github.com/brf153)
 - [Harsh Suhane](https://github.com/HARSHSUHANE17)
 - [Yash Adake](https://github.com/YashAdake)
 - [Manisha Nair](https://github.com/manisha-nair28)
